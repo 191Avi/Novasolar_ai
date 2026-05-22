@@ -1031,7 +1031,7 @@
       s.a += s.speed;
       ctx.beginPath();
       ctx.arc(s.x, s.y, s.r, 0, Math.PI * 2);
-      ctx.fillStyle = rgba(255, 230, 150, ${Math.abs(Math.sin(s.a)) * 0.7});
+      ctx.fillStyle = `rgba(255,230,150,${Math.abs(Math.sin(s.a))*0.7})`;
       ctx.fill();
     });
     requestAnimationFrame(drawStars);

@@ -6,6 +6,20 @@
 
 <br/>
 
+<!-- DYNAMIC GITHUB BADGES -->
+![GitHub Stars](https://img.shields.io/github/stars/191Avi/Novasolar_ai?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/191Avi/Novasolar_ai?style=social)
+![GitHub Watchers](https://img.shields.io/github/watchers/191Avi/Novasolar_ai?style=social)
+
+![GitHub Last Commit](https://img.shields.io/github/last-commit/191Avi/Novasolar_ai?style=flat-square&color=brightgreen&label=Last%20Commit)
+![GitHub Issues](https://img.shields.io/github/issues/191Avi/Novasolar_ai?style=flat-square&color=orange)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/191Avi/Novasolar_ai?style=flat-square&color=blue)
+![Repo Size](https://img.shields.io/github/repo-size/191Avi/Novasolar_ai?style=flat-square&color=informational)
+![Top Language](https://img.shields.io/github/languages/top/191Avi/Novasolar_ai?style=flat-square)
+![Language Count](https://img.shields.io/github/languages/count/191Avi/Novasolar_ai?style=flat-square&label=Languages)
+
+
+
 ![Status](https://img.shields.io/badge/Status-Active%20Research-brightgreen?style=for-the-badge&logo=atom&logoColor=white)
 ![Stage](https://img.shields.io/badge/Stage-R%26D%20%7C%20Prototype-orange?style=for-the-badge&logo=flask&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
@@ -222,6 +236,26 @@ jupyter lab
 This project is licensed under the **MIT License** — see the <LICENSE> file for details.
 
 -----
+
+## 🏅 Recognition & Community
+
+<div align="center">
+
+<!-- Trendshift badge will auto-activate once the repo appears on GitHub Trending -->
+<!-- Submit at https://trendshift.io to track your repo's trending history -->
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-191Avi-181717?style=for-the-badge&logo=github)](https://github.com/191Avi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Avijit%20Saha%20Apu-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/avijitsahaapu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-NovaSolar%20AI-FF6B35?style=for-the-badge&logo=google-chrome)](https://191avi.github.io/Novasolar_ai/)
+
+![GitHub contributors](https://img.shields.io/github/contributors/191Avi/Novasolar_ai?style=flat-square&color=blueviolet)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/191Avi/Novasolar_ai?style=flat-square&color=brightgreen&label=Commits%2FMonth)
+![GitHub Created At](https://img.shields.io/github/created-at/191Avi/Novasolar_ai?style=flat-square&label=Project%20Started)
+
+</div>
+
+-----
+
 
 <div align="center">
 
